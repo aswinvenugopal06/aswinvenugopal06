@@ -62,7 +62,6 @@ I'm a BTech student specializing in Computer Science Engineering with a focus on
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[FIX IT NOW](https://github.com/aswinvenugopal06/FIXI-T-NOW/edit/main/README.md)**    | smart campus issue managment and pg finder In One Plateform  |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+
 
 ---
