@@ -62,7 +62,7 @@ I'm a BTech student specializing in Computer Science Engineering with a focus on
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[FIX IT NOW](https://github.com/)**    | Short Description |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
