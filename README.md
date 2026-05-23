@@ -50,9 +50,11 @@ I'm a BTech student specializing in Computer Science Engineering with a focus on
 
 <div>
 
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
 
+<img 
+  src="https://img.shields.io/badge/Web%20Development-Workshop-blue?style=for-the-badge&logo=html5&logoColor=white" 
+  alt="Web Development Workshop Certificate" 
+/>
 </div>
 
 ---
@@ -62,7 +64,7 @@ I'm a BTech student specializing in Computer Science Engineering with a focus on
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[FIX IT NOW]()**    | smart campus issue managment and pg finder In One Plateform  |
+| **[FIX IT NOW](https://github.com/aswinvenugopal06/FIXI-T-NOW/edit/main/README.md)**    | smart campus issue managment and pg finder In One Plateform  |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
