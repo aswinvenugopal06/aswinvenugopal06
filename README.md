@@ -1,4 +1,4 @@
-I'm **[Aswin Venugopal](www.linkedin.com/in/aswin-venugopal-3160583aa)**, Currently pursuing a BTech in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. Passionate about coding, building real-world projects, and exploring the intersection of AI and technology. On a journey to learn, create, and contribute to the tech world.
+I'm **[Aswin Venugopal](https://www.linkedin.com/in/aswin-venugopal-3160583aa/)**, Currently pursuing a BTech in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. Passionate about coding, building real-world projects, and exploring the intersection of AI and technology. On a journey to learn, create, and contribute to the tech world.
 
 Skills & Interests
 
@@ -7,7 +7,7 @@ Machine Learning
 Artificial Intelligence
 Coding
 
-<a href="www.linkedin.com/in/aswin-venugopal-3160583aa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aswin-venugopal-3160583aa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
